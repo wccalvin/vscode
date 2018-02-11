@@ -1,2 +1,19 @@
-# vscode
-repo for .vscode extensions
+# Extensions installed
+```
+DavidAnson.vscode-markdownli
+dbaeumer.vscode-eslint
+DotJoshJohnson.xml
+eg2.tslint
+felixfbecker.php-debug
+felixfbecker.php-intellisens
+felixfbecker.php-pack
+formulahendry.code-runner
+GrapeCity.gc-excelviewer
+ms-python.python
+rashwell.tcl
+redhat.java
+shardulm94.trailing-spaces
+vscodevim.vim
+wesbos.theme-cobalt2
+xabikos.JavaScriptSnippets
+```
