@@ -19,7 +19,7 @@ xabikos.JavaScriptSnippets
 ```
 
 # USER SETTINGS
-json```
+```json
 {
     "workbench.colorTheme": "Cobalt2",
     // "vim.disableAnnoyingNeovimMessage": true,
