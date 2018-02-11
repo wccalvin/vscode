@@ -18,11 +18,10 @@ wesbos.theme-cobalt2
 xabikos.JavaScriptSnippets
 ```
 
-# USER SETTINGS
+# User Settings
 ```json
 {
     "workbench.colorTheme": "Cobalt2",
-    // "vim.disableAnnoyingNeovimMessage": true,
     "editor.rulers": [
         80, 120
     ],
